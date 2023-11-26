@@ -1,4 +1,4 @@
-print("print")
+print("print<<<<<<>>>>>")
 print("itay!!!")
 print("itay!!!")
 print("itay!!!")
