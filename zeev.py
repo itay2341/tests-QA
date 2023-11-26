@@ -5,9 +5,4 @@ print("not Zeev")
 
 
 print("zeev")
-
-
-print("zeev")
-
-
-print("zeev22222222")
+print("slow but increasing")
